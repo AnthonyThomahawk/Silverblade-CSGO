@@ -30,3 +30,9 @@ After you install all of the required tools, you must configure them accordingly
 * Then go to VC++ Directories, and set up the include and library paths for your DirectX SDK and Windows SDK. **Be sure to put the DirectX SDK path last, otherwise you will get errors.** After you are done, it should look something like this :
 
 ![Screenshot](vssettings.PNG)
+
+Lastly, select Release in build options, and x86 (32-bit) architecture, and build the project (Ctrl+Shift+B).
+now you will get the cheat's binary (SV6Test.exe) in the release folder of the project.
+
+
+
