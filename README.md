@@ -26,4 +26,4 @@ After you install all of the required tools, you must configure them accordingly
 * In visual studio, after you open the project you must right click on the project (SV6Test) then select properties->General->Windows SDK and then select the latest windows SDK available. Also make sure to select C++ 2017 standard.
 Then go to VC++ Directories, and set up the include and library paths for your DirectX SDK. **Be sure to put the DirectX SDK path last, otherwise you will get errors.** After you are done, it should look something like this :
 
-![Screenshot](vssettings.png)
+![Screenshot](vssettings.PNG)
