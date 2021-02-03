@@ -22,11 +22,11 @@ If you get banned while using this, im not responsible for that, you used this k
 # Screenshots
 Opening CLI screen :
 
-![Screenshot](ss4.PNG)
+![Screenshot](ss4.png)
 
 GUI:
 
-![Screenshot](ss2.PNG)
+![Screenshot](ss2.png)
 
 
 
