@@ -19,6 +19,11 @@ The code quality in this release is **sub-par**, i wrote it when i was 16 and it
 This source is meant for people to play around and experiment with, do not use it in matchmaking servers as it will probably get you **banned**.
 If you get banned while using this, im not responsible for that, you used this knowing the risks.
 
+# Screenshots
+
+
+
+
 # Compiling the project
 To compile this, you must have Visual studio 2017 or newer, DirectX SDK of june 2010 (for the overlay) and the latest Windows 10 SDK installed on your system.
 
