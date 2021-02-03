@@ -20,7 +20,13 @@ This source is meant for people to play around and experiment with, do not use i
 If you get banned while using this, im not responsible for that, you used this knowing the risks.
 
 # Screenshots
+Opening CLI screen :
 
+![Screenshot](ss4.PNG)
+
+GUI:
+
+![Screenshot](ss2.PNG)
 
 
 
