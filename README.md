@@ -22,6 +22,8 @@ If you get banned while using this, im not responsible for that, you used this k
 # Compiling the project
 To compile this, you must have Visual studio 2017 or newer, DirectX SDK of june 2010 (for the overlay) and the latest Windows 10 SDK installed on your system.
 
+**Important NOTE:** DirectX SDK is no longer available from the official microsoft website (some genius thought it was a great idea to remove it), however you can still find it [here](https://www.filehorse.com/download-directx-sdk/)
+
 After you install all of the required tools, you must configure them accordingly :
 * In visual studio, after you open the project you must right click on the project (SV6Test) then select properties->General->Windows SDK and then select the latest windows SDK available. Also make sure to select C++ 2017 standard.
 
