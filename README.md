@@ -28,6 +28,11 @@ GUI:
 
 ![Screenshot](ss2.png)
 
+Visuals in-game :
+
+![Screenshot](ss1.png)
+![Screenshot](ss3.png)
+
 
 
 # Compiling the project
