@@ -12,7 +12,7 @@ Silverblade is an external cheat for CS:GO (Counter strike global offensive) wri
 # IMPORTANT disclaimer
 The code quality in this release is **sub-par**, i wrote it when i was 16 and it was my first ever "big" C++ application, most of it is pasted off of other open source cheats (which is why you might think each seperate feature is written by a diffrent person), it is not well optimised and barely works.
 
-**Basically, this was my learning experience with game hacking and C++ in general.
+**Basically, this was my learning experience with game hacking and C++ in general.**
 
 This source is meant for people to play around and experiment with, do not use it in matchmaking servers as it will probably get you **banned**.
 If you get banned while using this, im not responsible for that, you used this knowing the risks.
