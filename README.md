@@ -230,6 +230,6 @@ Example of an offset file (offsets.txt) :
         public const Int32 set_abs_origin = 0x1DF800;
 ```
 # HWID lock
-To get the HWID of your computer/HDD, you need to run [THIS](https://github.com/AnthonyThomahawk/Simple-HWID-Windows) program, and then copy-paste the HWID from the CMD window, into the cheat's source (variable named lock in SV6Test.cpp).
+To get the HWID of your computer/HDD, you need to run [THIS](https://github.com/AnthonyThomahawk/Simple-HWID-Windows) program, and then copy-paste the HWID from the CMD window, into the cheat's source (variable named "lock" in SV6Test.cpp).
 
 
