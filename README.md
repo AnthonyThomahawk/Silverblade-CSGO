@@ -229,7 +229,8 @@ Example of an offset file (offsets.txt) :
         public const Int32 set_abs_angles = 0x1DF9C0;
         public const Int32 set_abs_origin = 0x1DF800;
 ```
-
+# HWID lock
+To open the cheat after compiling, you need to either change the HWID to the one of the computer you will be using (using a seperate project ill be releasing soon) or comment/delete the HWID lock code.
 
 
 
