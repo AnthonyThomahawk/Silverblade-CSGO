@@ -294,7 +294,7 @@ void printcurrentoffsets()
 BOOL CSV6testApp::InitInstance()
 {
 	string hwid = GetHWID();
-	string lock = "h:6;h>9l";
+	string lock = ""; // Insert your HWID here, that you get by running simple HWID for windows (link in github repo)
 	if (hwid!=lock)
 	{
 		MessageBoxA(0, (LPCSTR)"This app is not authorized to run on your PC", (LPCSTR)"HWID lock", MB_ICONWARNING);
