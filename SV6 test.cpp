@@ -300,7 +300,7 @@ BOOL CSV6testApp::InitInstance()
 		MessageBoxA(0, (LPCSTR)"This app is not authorized to run on your PC", (LPCSTR)"HWID lock", MB_ICONWARNING);
 		return 0;
 	}
-	string hwiduser = "BladeZ";
+	string hwiduser = "AnthonyT"; // Desired username
 	AllocConsole();
 	AttachConsole(GetCurrentProcessId());
 	freopen("CON", "w", stdout);
