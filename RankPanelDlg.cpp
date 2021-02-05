@@ -53,23 +53,6 @@ void RankPanelDlg::DoDataExchange(CDataExchange* pDX)
 
 	}
 
-
-	//nindex = RankPreviewList.InsertItem(0, _T("Sandra C. Anschwitz"));
-
-	/*RankPreviewList.InsertColumn(0, _T("Full Name"), LVCFMT_LEFT, 90);
-	RankPreviewList.InsertColumn(1, _T("Profession"), LVCFMT_LEFT, 90);
-	RankPreviewList.InsertColumn(2, _T("Fav Sport"), LVCFMT_LEFT, 90);
-	RankPreviewList.InsertColumn(3, _T("Hobby"), LVCFMT_LEFT, 90);
-
-	int nIndex = RankPreviewList.InsertItem(0, _T("Sandra C. Anschwitz"));
-	RankPreviewList.SetItemText(nIndex, 1, _T("Singer"));
-	RankPreviewList.SetItemText(nIndex, 2, _T("Handball"));
-	RankPreviewList.SetItemText(nIndex, 3, _T("Beach"));
-
-	nIndex = RankPreviewList.InsertItem(1, _T("Roger A. Miller"));
-	RankPreviewList.SetItemText(nIndex, 1, _T("Footballer"));
-	RankPreviewList.SetItemText(nIndex, 2, _T("Tennis"));
-	RankPreviewList.SetItemText(nIndex, 3, _T("Teaching"));*/
 }
 
 
