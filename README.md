@@ -9,7 +9,7 @@ Silverblade is an external cheat for CS:GO (Counter strike global offensive) wri
 * A cute MFC form based GUI
 * CLI startup ui
 * Multi-threaded design (each feature runs on a seperate thread)
-* A basic HWID lock (will be released as a seperate project soon)
+* A basic HWID lock (seperate demo released [here](https://github.com/AnthonyThomahawk/Simple-HWID-Windows))
 
 The cheat utilizes RPM (Read Process Memory) and WPM (Write Process Memory) WINAPI functions, to operate (just like 99% of external cheats for CSGO) placed conviniently in a wrapper class called BladeMemory.
 
