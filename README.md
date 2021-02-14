@@ -5,9 +5,9 @@ Silverblade is an external cheat for CS:GO (Counter strike global offensive) wri
 * All classic features found in external cheats (Wallhack, aimbot, triggerbot etc.)
 * A DirectX overlay, for rendering visuals such as ESP boxes and player names
 * Some unique features that you dont come by often in external cheats (Block bot, rank reveal, chat spam etc.)
-* Horrible coding practices noone should ever follow (an excessive amount of global variables, and bs code in general)
+* Horrible coding practices no one should ever follow (an excessive amount of global variables, and bs code in general)
 * A cute MFC form based GUI
-* CLI startup ui
+* CLI startup
 * Multi-threaded design (each feature runs on a seperate thread)
 * A basic HWID lock (seperate demo released [here](https://github.com/AnthonyThomahawk/Simple-HWID-Windows))
 
